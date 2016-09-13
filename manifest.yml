@@ -1,5 +1,5 @@
 applications:
-- path: target/devopsnapratica.war
+- path: site/target/devopsnapratica.war
   domain: mybluemix.net
   name: broadleaf
   host: broadleaf
