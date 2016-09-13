@@ -1,6 +1,8 @@
 applications:
-- path: site/target/broadleaf.war
+- path: target/devopsnapratica.war
   domain: mybluemix.net
   name: broadleaf
   host: broadleaf
   instances: 1
+  disk_quota: 1024M
+  memory: 512M
