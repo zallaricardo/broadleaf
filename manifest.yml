@@ -1,0 +1,6 @@
+applications:
+- path: Site/target/broadleaf.war
+  domain: mybluemix.net
+  name: broadleaf
+  host: broadleaf
+  instances: 1
