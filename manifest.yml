@@ -1,5 +1,5 @@
 applications:
-- path: Site/target/broadleaf.war
+- path: site/target/broadleaf.war
   domain: mybluemix.net
   name: broadleaf
   host: broadleaf
